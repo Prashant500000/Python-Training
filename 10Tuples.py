@@ -1,0 +1,5 @@
+tuples = (10, 20, 30, 40, 50)
+print(tuples)
+print(type(tuples))
+print(tuples[0])
+print(tuples[1])
